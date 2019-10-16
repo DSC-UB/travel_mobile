@@ -3,10 +3,15 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 
 apply plugin: 'kotlin-android-extensions'
+android {}
 
 android {
     compileSdkVersion 28
     buildToolsVersion "29.0.2"
+    compileOptions {
+        sourceCompatibility = 1.8
+        targetCompatibility = 1.8
+    }
     defaultConfig {
         applicationId "com.dscub.travel"
         minSdkVersion 21
@@ -14,6 +19,9 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    kotlinOptions {
+        jvmTarget = "1.8"
     }
     buildTypes {
         release {
