@@ -12,7 +12,7 @@ class RegisterActivity : AppCompatActivity() {
         setContentView(R.layout.activity_register)
 
         sign_up.setOnClickListener {
-            val intent = Intent(this, MainActivity::class.java)
+            val intent = Intent(this, SetupActivity::class.java)
             startActivity(intent)
         }
 
