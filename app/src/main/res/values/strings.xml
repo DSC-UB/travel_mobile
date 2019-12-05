@@ -13,7 +13,13 @@
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
-    <string name="enter_user_name">Enter User name ...</string>
+    <string name="enter_user_name">Enter Email ...</string>
     <string name="enter_password">Enter Password ..</string>
     <string name="re_enter_password">Re-enter Password ...</string>
+    <string name="full_name">Enter Full Name</string>
+    <string name="enter_matricul">Enter Matricul Number</string>
+    <string name="enter_level">Enter level of studies</string>
+    <string name="enter_faculty">Enter Faculty Name</string>
+    <string name="enter_department">Enter Department Name</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
 </resources>

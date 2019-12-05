@@ -5,4 +5,5 @@
     <color name="colorAccent">#AD350E</color>
     <color name="colorOrangeFad">#AD350E</color>
     <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDeepBlack">#FF000000</color>
 </resources>
