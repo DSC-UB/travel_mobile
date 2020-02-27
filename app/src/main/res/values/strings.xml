@@ -19,7 +19,7 @@
     <string name="full_name">Enter Full Name</string>
     <string name="enter_matricul">Enter Matricul Number</string>
     <string name="enter_level">Enter level of studies</string>
-    <string name="enter_faculty">Enter Faculty Name</string>
+    <string name="enter_faculty">Enter School Name</string>
     <string name="enter_department">Enter Department Name</string>
     <string name="enter_phone_number">Enter Phone Number</string>
 </resources>
